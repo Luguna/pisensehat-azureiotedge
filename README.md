@@ -23,3 +23,6 @@ https://docs.influxdata.com/telegraf/v1.11/plugins/plugin-list/
 https://kafka.apache.org/intro
 https://www.influxdata.com/time-series-platform/kapacitor/
 https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-for-kafka-ecosystem-overview
+
+
+https://www.balena.io/blog/building-arm-containers-on-any-x86-machine-even-dockerhub/
